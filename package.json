@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build --user \"kush-singh-chb <singh.kush100@gmail.com>\" -r https://github.com/kush-singh-chb/Kush-Portfolio"
   },
   "eslintConfig": {
     "extends": [
