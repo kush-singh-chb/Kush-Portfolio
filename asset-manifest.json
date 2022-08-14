@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.064a901f.css",
-    "main.js": "/Portfolio/static/js/main.58cdb092.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/20200627_150649.jpg": "/Portfolio/static/media/20200627_150649.e1ca7e8347c19d163726.jpg",
-    "static/media/fontawesome-webfont.svg?v=4.3.0": "/Portfolio/static/media/fontawesome-webfont.ccec770f05a191a6d5d3.svg",
-    "static/media/Work.gif": "/Portfolio/static/media/Work.8cdcea98a51b31d30ca6.gif",
-    "static/media/fontawesome-webfont.ttf?v=4.3.0": "/Portfolio/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
-    "static/media/glyphicons-halflings-regular.svg": "/Portfolio/static/media/glyphicons-halflings-regular.18956631610a7c3e1e9c.svg",
-    "static/media/fontawesome-webfont.woff?v=4.3.0": "/Portfolio/static/media/fontawesome-webfont.c589f72df384e3ef078b.woff",
-    "static/media/fontawesome-webfont.eot": "/Portfolio/static/media/fontawesome-webfont.03605b2467d43a9f4c63.eot",
-    "static/media/fontawesome-webfont.woff2?v=4.3.0": "/Portfolio/static/media/fontawesome-webfont.fb685a7c7e4aae2d4d71.woff2",
-    "static/media/glyphicons-halflings-regular.ttf": "/Portfolio/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
-    "static/media/glyphicons-halflings-regular.woff": "/Portfolio/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
-    "static/media/glyphicons-halflings-regular.eot": "/Portfolio/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
-    "static/media/glyphicons-halflings-regular.woff2": "/Portfolio/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
-    "static/media/augmont.png": "/Portfolio/static/media/augmont.c2e811da5a61f27531a9.png",
-    "static/media/Dearo.png": "/Portfolio/static/media/Dearo.73d22974a8b6c89dd293.png",
-    "index.html": "/Portfolio/index.html",
-    "main.064a901f.css.map": "/Portfolio/static/css/main.064a901f.css.map",
-    "main.58cdb092.js.map": "/Portfolio/static/js/main.58cdb092.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.0fe9c9f6.css",
+    "main.js": "/static/js/main.66592495.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.3.0": "/static/media/fontawesome-webfont.ccec770f05a191a6d5d3.svg",
+    "static/media/Work.gif": "/static/media/Work.8cdcea98a51b31d30ca6.gif",
+    "static/media/fontawesome-webfont.ttf?v=4.3.0": "/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.18956631610a7c3e1e9c.svg",
+    "static/media/fontawesome-webfont.woff?v=4.3.0": "/static/media/fontawesome-webfont.c589f72df384e3ef078b.woff",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.03605b2467d43a9f4c63.eot",
+    "static/media/fontawesome-webfont.woff2?v=4.3.0": "/static/media/fontawesome-webfont.fb685a7c7e4aae2d4d71.woff2",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "static/media/augmont.png": "/static/media/augmont.c2e811da5a61f27531a9.png",
+    "static/media/Dearo.png": "/static/media/Dearo.73d22974a8b6c89dd293.png",
+    "index.html": "/index.html",
+    "main.0fe9c9f6.css.map": "/static/css/main.0fe9c9f6.css.map",
+    "main.66592495.js.map": "/static/js/main.66592495.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.064a901f.css",
-    "static/js/main.58cdb092.js"
+    "static/css/main.0fe9c9f6.css",
+    "static/js/main.66592495.js"
   ]
 }
